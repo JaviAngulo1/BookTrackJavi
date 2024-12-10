@@ -1,6 +1,7 @@
 # Informacion de cada libro
 ---
--**Titulo**
--**Autor**
--**Genero**
--**Año de publicacion**
+
+- **Titulo**
+- **Autor**
+- **Genero**
+- **Año de publicacion**
