@@ -1,1 +1,1 @@
-## Aqui se muestran los libros pendientes a leer por el usuario 
+## Aqui se muestran los usuarios registrados
