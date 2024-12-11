@@ -1,1 +1,1 @@
-## Aqui se muestran los usuarios registrados
+## Aqui se muestra lo que tienen los usuarios registrados.
