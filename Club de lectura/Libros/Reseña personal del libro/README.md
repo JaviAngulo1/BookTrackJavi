@@ -1,1 +1,0 @@
-# Reseña del libro 
