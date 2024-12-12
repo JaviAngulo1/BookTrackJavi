@@ -1,1 +1,1 @@
-## Aqui se muestra el perfil de cada usuario.
+## Aqui se muestra lo que tiene cada usuario registrado.
