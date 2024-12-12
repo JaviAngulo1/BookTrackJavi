@@ -8,4 +8,4 @@
 - Ha sido de los mejores libros que he leido.
 - Tiene mucha información importante para entender las peliculas.
 - Es un libro extenso y pesado para mi no ha sido muy bueno.
-- 
+  
