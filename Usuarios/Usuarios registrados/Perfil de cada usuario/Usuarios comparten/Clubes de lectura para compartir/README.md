@@ -1,7 +1,7 @@
 ## Clubes de lectura compartidos:
 
--Ciervo Blanco
+- Ciervo Blanco
 
--Billar de letras
+- Billar de letras
 
--Cuna literaria
+- Cuna literaria
