@@ -1,1 +1,7 @@
-## Aqui se muestra lo que tiene cada usuario registrado.
+## Aqui se mostrara el perfil de cada usuario 
+
+**Nombre**
+*Apellido*
+~~Informacion~~
+**__**
+
