@@ -1,1 +1,8 @@
-## Aqui se muestran los libros pendientes a leer por el usuario 
+## Libros pendientes a leer
+
+Los miserables, de Victor Hugo. 
+***
+Las aventuras de Huckleberry Finn, de Mark Twain
+***
+Ristam Shandy, de Laurence Sterne.
+***
