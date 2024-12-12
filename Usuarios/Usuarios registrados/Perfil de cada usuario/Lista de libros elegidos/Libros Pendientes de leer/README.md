@@ -1,8 +1,13 @@
-## Libros pendientes a leer
+## 📖 **Libros pendientes por leer**
 
-Los miserables, de Victor Hugo. 
+- **_"Sapiens: De animales a dioses"_** – *Yuval Noah Harari*  
+   - **Género:** Ensayo histórico  
+   - **Motivo para leerlo:** Una fascinante exploración de la historia de la humanidad y cómo hemos llegado a ser quienes somos.
 ***
-Las aventuras de Huckleberry Finn, de Mark Twain
+- **_"Dune"_** – *Frank Herbert*  
+   - **Género:** Ciencia ficción  
+   - **Motivo para leerlo:** Una de las novelas de ciencia ficción más influyentes, con un universo complejo lleno de intrigas políticas y reflexiones sobre el medio ambiente.
 ***
-Ristam Shandy, de Laurence Sterne.
-***
+- **_"Rayuela"_** – *Julio Cortázar*  
+   - **Género:** Ficción contemporánea  
+   - **Motivo para leerlo:** Una obra innovadora de la literatura latinoamericana que desafía la narrativa tradicional y ofrece múltiples formas de ser leída.

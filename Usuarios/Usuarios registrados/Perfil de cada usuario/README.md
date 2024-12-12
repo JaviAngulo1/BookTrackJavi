@@ -1,1 +1,6 @@
-## Aqui se muestra lo que tiene cada usuario registrado.
+
+## 🎯 **Lo que tiene cada usuario**
+
+- 🌍 Usuario que comparten
+- 📚 Listas de libros elegidos
+
