@@ -1,1 +1,1 @@
-## Aqui se muestra lo que tiene cada usuario registrado.
+## Aqui se muestra lo que tiene cada usuario registrado
