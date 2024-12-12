@@ -1,4 +1,4 @@
-## 📖 **Libros Pendientes por Leer**
+## 📖 **Libros pendientes por leer**
 
 - **_"Sapiens: De animales a dioses"_** – *Yuval Noah Harari*  
    - **Género:** Ensayo histórico  
