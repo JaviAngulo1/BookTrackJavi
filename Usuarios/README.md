@@ -1,1 +1,1 @@
-## Aqui te muestro todas la carpeta de todos los usuarios registrado
+## Aqui te muestro la carpeta de todos los usuarios registrado
