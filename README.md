@@ -11,9 +11,7 @@
 ## 📁 **Carpeta: Club de Lectura**
 - **Descripción:** Contiene todos los documentos y recursos relacionados con el club de lectura.
 - **Archivos clave:**
-  - `libros.md`: Lista y detalles de los libros recomendados por el club de lectura.
-  - `agenda.md`: Planificación y eventos programados del club.
-  - `recomendaciones.txt`: Sugerencias de lecturas de los miembros del club.
+  - Lista de libros: Te mostrara toda la iformación de la lista de libros
 
 ---
 
