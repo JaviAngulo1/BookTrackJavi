@@ -4,10 +4,8 @@
 ## 📁 **Carpeta: Usuario**
 - **Descripción:** Contiene los archivos relacionados con la gestión y configuración de los usuarios en el repositorio.
 - **Archivos clave:**
-  - `usuarios.json`: Base de datos de los usuarios.
-  - `perfil.md`: Detalles sobre el perfil de cada usuario.
-  - `settings.yml`: Archivo de configuración para personalizar preferencias de usuario.
-
+  - Usuarios registrados: Base de datos de los usuarios.
+  - Perfil de cada usuario : Detalles sobre el perfil de cada usuario.
 ---
 
 ## 📁 **Carpeta: Club de Lectura**
