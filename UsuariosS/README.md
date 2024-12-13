@@ -25,5 +25,3 @@ Por favor, completa los siguientes campos para registrarte en nuestra plataforma
 
 [ ] **Enviar Registro**
 
----
-**Nota**: Todos los campos son obligatorios a menos que se indique lo contrario.
