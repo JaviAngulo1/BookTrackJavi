@@ -1,3 +1,31 @@
-## Aqui se mostrara toda la informacion del club de lectura
+## 📚 **Bienvenidos al Club de Lectura!**
 
--Este club de lectura tiene mucha ampliacion de todo tipo de lectura.
+---
+
+## 📖 **Estado del libro**
+
+-Te muestra el estado del libro
+
+---
+
+## 📅 **Historial del listado**
+
+-Aqui te mostrara todo el historial de los libros 
+
+---
+
+## 📚 **Lista de libros**
+
+-Muestra todos los libros de la lista
+
+---
+
+## 📌 **Reseña personal**
+
+-Se mostrara todas las reseñas que hacen los usuarios de cada libro
+
+---
+
+
+
+
