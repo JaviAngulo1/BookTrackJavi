@@ -2,13 +2,13 @@
 
 ---
 
-## 📅 **Estado del libro**
+## 📖 **Estado del libro**
 
--
+-Te muestra el estado del libro
 
 ---
 
-## 📖 **Libros Leídos**
+## 📅 **Historial del listado**
 
 
 ---
