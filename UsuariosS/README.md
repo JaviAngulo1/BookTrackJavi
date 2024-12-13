@@ -2,28 +2,24 @@
 
 Por favor, completa los siguientes campos para registrarte en nuestra plataforma.
 
-## Datos Personales
+## 📋 Datos Personales
 
 - **Nombre Completo**: [__________]
 - **Correo Electrónico**: [__________]
 - **Teléfono**: [__________]
 
-## Datos de Acceso
+## 🔐 Datos de Acceso
 
 - **Nombre de Usuario**: [__________]
 - **Contraseña**: [__________]
 - **Confirmar Contraseña**: [__________]
 
-## Información Adicional
+## 📄 Información Adicional
 
 - **Fecha de Nacimiento**: [__________]
 - **Dirección**: [__________]
 - **Ciudad**: [__________]
 - **País**: [__________]
-
-## Aceptación de Términos y Condiciones
-
-[ ] Acepto los [Términos y Condiciones](#) y la [Política de Privacidad](#).
 
 ## Enviar Registro
 
