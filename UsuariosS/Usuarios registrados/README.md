@@ -1,11 +1,11 @@
-# 📖 **Perfil de Usuario: Amante de los Libros**
+# 📖 **Perfil de Usuario:**
 
 ## 📌 **Información Personal**
 - **Nombre:** Sofía Martínez  
 - **Edad:** 32 años   
 
 ## 🧑‍💻 **Descripcion breve sobre el usuario**
-Apasionada por los libros y las palabras, con más de 10 años de experiencia trabajando en el mundo editorial. Mi misión es conectar a las personas con historias que transformen su perspectiva. Adoro descubrir nuevos autores, participar en clubes de lectura y recomendar joyas literarias.
+Apasionada por los libros y adoro descubrir nuevos autores, participar en clubes de lectura y recomendar joyas literarias.
 
 ---
 
@@ -33,8 +33,7 @@ Apasionada por los libros y las palabras, con más de 10 años de experiencia tr
 
 ## 🎯 **Intereses**
 - ✍️ Escribir relatos cortos  
-- ☕ Visitar cafeterías literarias  
-- 🌍 Viajar a ferias de libros internacionales  
+- 🌍 Viajar a ferias de libros 
 - 📚 Coleccionar ediciones raras  
 
 ---
