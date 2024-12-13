@@ -20,7 +20,7 @@
 
 ---
 
-## 📌 **Próximas Reuniones**
+## 📌 **Reseña personal**
 
 
 
