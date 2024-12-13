@@ -1,4 +1,4 @@
-# **📚Libros **
+# **📚Libros**
 
 A continuación, se presenta una lista de libros recomendados para leer en el Club de Lectura:
 
