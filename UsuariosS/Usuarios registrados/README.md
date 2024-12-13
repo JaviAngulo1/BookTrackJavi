@@ -1,4 +1,4 @@
-# 📖 **Perfil de Usuario: Amante de los Libros**
+# 📖 **Perfil de Usuario:**
 
 ## 📌 **Información Personal**
 - **Nombre:** Sofía Martínez  
