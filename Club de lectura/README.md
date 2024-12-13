@@ -14,7 +14,7 @@
 
 ---
 
-## 🌍 **Lista de libros**
+## 📚 **Lista de libros**
 
 -Muestra todos los libros de la lista
 
@@ -22,11 +22,9 @@
 
 ## 📌 **Reseña personal**
 
-
+-Se mostrara todas las reseñas que hacen los usuarios de cada libro
 
 ---
-
-## 💬 **¿Tienes Preguntas?**
 
 
 
