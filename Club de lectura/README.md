@@ -14,8 +14,9 @@
 
 ---
 
-## 🌍 **¿Cómo Unirte?**
+## 🌍 **Lista de libros**
 
+-Muestra todos los libros de la lista
 
 ---
 
